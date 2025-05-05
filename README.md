@@ -7,7 +7,7 @@ Full Stack .NET Developer Trainee @ Kaashiv Infotech
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
   
 
-- ⚡ Fun fact: I know Arabic Reading and Writing Medium Speaking.
+- ⚡I know Arabic Reading and Writing Medium Speaking.
 - Social Presence <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fathima-shabeer/) 
   
 ### I code in
