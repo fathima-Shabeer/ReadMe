@@ -20,4 +20,3 @@ Full Stack .NET Developer Trainee @ Kaashiv Infotech
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Developer-Fathima?theme=dark&font=Meera%20Inimai)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fathima-Shabeer&bg_color=000040&color=ffff00&line=0000ff&point=80ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
